@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello!😀 My Name is **Sandeep**. I am from ICFAI university taking BS Computer Science Engineering🏫
 
-<!--
-**kssc1257/kssc1257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a huge interest in coding! Currently studying Python
 
-Here are some ideas to get you started:
+I am new to GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+Nothing Remarkable yet
+
+
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: sandeep._.kota(Instagram)
+- 😄 Pronouns: He/Him
+
+
